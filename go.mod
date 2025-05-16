@@ -1,4 +1,4 @@
-module spark-operator/apis
+module two-bee-or-not-two-bee/apis
 
 go 1.22.11
 
