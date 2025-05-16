@@ -1,4 +1,4 @@
-module two-bee-or-not-two-bee/apis
+module github.com/two-bee-or-not-two-bee/apis
 
 go 1.22.11
 
